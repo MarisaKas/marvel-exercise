@@ -1,6 +1,6 @@
-# marvel-exercise
+# marvel-api
 
-## ReactJs Marvel API Challenge
+## ReactJs Marvel API APP
 
 React + Redux.
 This project was bootstrapped with [create-react-app](https://github.com/facebook/create-react-app).
